@@ -1,6 +1,6 @@
 # Site settings
 title: 所谓的.Guitar
-SEOTitle: 我的博客 | My Blog
+SEOTitle: pdc1024的博客 | My Blog
 header-img: img/post-bg-desk.jpg
 email: pdc1024@qq.com
 description: "喜欢的事情慢慢做，喜欢的生活好好努力，用最舒服的方式去工作和生活"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/pdc1024/pdc1024.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
-sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/chen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -83,7 +83,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 10              # 相同标签数量大于这个数，才会出现在首页
 
 
 
